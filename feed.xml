@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>GUERREROLEIDY</title>
+    <link href="https://pagina-leidyguerrero.github.io/Pagina-leidyguerrero12.github.io/feed.xml" rel="self" />
+    <link href="https://pagina-leidyguerrero.github.io/Pagina-leidyguerrero12.github.io" />
+    <updated>2025-01-30T21:51:16-05:00</updated>
+    <author>
+        <name>GUERREROLEIDY</name>
+    </author>
+    <id>https://pagina-leidyguerrero.github.io/Pagina-leidyguerrero12.github.io</id>
+
+    <entry>
+        <title>inivcio</title>
+        <author>
+            <name>GUERREROLEIDY</name>
+        </author>
+        <link href="https://pagina-leidyguerrero.github.io/Pagina-leidyguerrero12.github.io/inivcio.html"/>
+        <id>https://pagina-leidyguerrero.github.io/Pagina-leidyguerrero12.github.io/inivcio.html</id>
+
+        <updated>2025-01-30T21:51:16-05:00</updated>
+            <summary>
+                <![CDATA[
+                    cfsgs
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>cfsgs</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
